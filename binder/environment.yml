@@ -1,0 +1,7 @@
+name: session-12
+channels:
+  - eaton-lab
+dependencies:
+  - numpy
+  - pandas
+  - toyplot
